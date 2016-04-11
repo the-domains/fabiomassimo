@@ -1,0 +1,28 @@
+name: fabiomassimo
+favicon: null
+layout_spectrum: 0.3201462891884148
+typography_spectrum: 0.34033936238847673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.27461159648373723
+  lightness: 0.08057682286016643
+  saturation: 0.6878646928817034
+  rhythmicContrast: 0.9748296954203397
+purpose: []
